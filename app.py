@@ -4,7 +4,7 @@ import streamlit as st
 def chatbot_response(user_input):
     # For demonstration, a simple keyword-based response
     responses = {
-        "hello": "Hi there! How can I help you today?",
+        "hello": "Hi gaurav how are you!",
         "bye": "Goodbye! Have a great day!",
         "thanks": "You're welcome!",
     }
